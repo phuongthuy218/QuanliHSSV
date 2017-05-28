@@ -1,0 +1,45 @@
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe.config
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.pdb
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.loginfrm.resources
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Properties.Resources.resources
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csproj.GenerateResource.Cache
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.exe
+c:\users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.pdb
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csprojResolveAssemblyReference.cache
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmqlhsgv.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmgiaovien.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.banbomon.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichdaythay.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichgiangday.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lophoc.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.phanconggiangday.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.cacmonhoc.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.thongtinhocsinh.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.solienlac.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Hocba.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Bangdiem.resources
+C:\Users\voicoi\documents\visual studio 2013\Projects\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.chitietdiem.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe.config
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.exe
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.pdb
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.pdb
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csprojResolveAssemblyReference.cache
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.banbomon.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Bangdiem.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.cacmonhoc.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.chitietdiem.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Hocba.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichdaythay.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichgiangday.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lophoc.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.phanconggiangday.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.solienlac.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.thongtinhocsinh.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.loginfrm.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmgiaovien.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Properties.Resources.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmqlhsgv.resources
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csproj.GenerateResource.Cache
+C:\Users\voicoi\Documents\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Formthongtin.resources
