@@ -9,7 +9,7 @@ insert into giaovien(magv,tengv,ngaysinh,gioitinh,dantoc,tongiao,quequan,trinhdo
 values (@ma,@ten,@ns,@gt,@dt,@tg,@que,@td,@ngay,@nn,@ghichu,@tb)
 
 end 
-themthongtingiaovien 'gv01234',N'huyền','02/02/1996',N'nữ','kinh','không',N'hà tĩnh','không','04/03/2015','anh','không',N'toán'
+themhsgiaovien 'gv01234',N'huyền','02/02/1996',N'nữ','kinh','không',N'hà tĩnh','không','04/03/2015','anh','không',N'toán'
 select *from giaovien
                                    --SỬA THÔNG TIN GIÁO VIÊN 
 create proc suathongtingiaovien @ma char(10),@ten nvarchar(50),@ns date,@td nvarchar(50)
@@ -53,7 +53,7 @@ set truongban=@tb ,sogvdg=@sogv
 where tenban=@ten
 end
 								   --XÓA BAN BỘ MÔN
-alter proc xoaphongban  @ten nvarchar(50)
+create proc xoaphongban  @ten nvarchar(50)
 as
 begin 
 delete  banbomon  
@@ -126,7 +126,7 @@ as
 begin  
 insert into phanconggiangday(magv,tengv,tungay,denngay,congtac,ghichu) 
 values (@ma,@ten,@tn,@dn,@ct,@ghichu)
-end  								    
+end  						    
 								   --sửa lịch phân công giảng dạy
 create proc suaphancong @ma char(10),@ten nvarchar(50) ,@tn datetime,@dn datetime,@ct nvarchar(50) ,@ghichu nvarchar(50)
 as
@@ -356,14 +356,14 @@ delete khenthuong
 where mahs=@ma                   
  end	
 	                                  -- thêm kỷ luật
-alter proc themkyluat  @mahs char(10), @ht nvarchar(50), @ld nvarchar(50), @nkl datetime ,@ghichu nvarchar(50)
+create proc themkyluat  @mahs char(10), @ht nvarchar(50), @ld nvarchar(50), @nkl datetime ,@ghichu nvarchar(50)
 as
 begin  
 insert into kyluat(mahs,hinhthuc,lydo,ngaykyluat,ghichu)
 values (@mahs,@ht,@ld,@nkl,@ghichu)
 end  
 			           --- sửa kyluat
-alter proc suakyluat @mahs char(10), @ht nvarchar(50), @ld nvarchar(50), @nkl datetime ,@ghichu  nvarchar(50)
+create proc suakyluat @mahs char(10), @ht nvarchar(50), @ld nvarchar(50), @nkl datetime ,@ghichu  nvarchar(50)
 as
 begin
 update kyluat
@@ -371,7 +371,7 @@ set  hinhthuc=@ht ,ngaykyluat =@nkl ,ghichu=@ghichu
 where mahs=@mahs
 end 	
           ----- xóa kỷ luật
-alter proc xoakyluat @ma char(10) 
+create proc xoakyluat @ma char(10) 
 as
 begin
 delete kyluat
@@ -386,7 +386,7 @@ insert into bangluong(magv,luongcoban,hesoluong,luongphucap,BaoHiemYTe,TongLuong
 values (@ma,@lcb,@hsl,@lpc,@bhyt,@tl)
 end  
 			           --- sửa lương
-alter proc sualuong  @ma char(10),@lcb float ,@hsl float , @lpc float, @bhyt float , @tl float
+create proc sualuong  @ma char(10),@lcb float ,@hsl float , @lpc float, @bhyt float , @tl float
 as
 begin
 update bangluong

@@ -24,12 +24,13 @@ namespace quanlyhocsinhgiaovien
         private void Hocba_Load(object sender, EventArgs e)
         {
             dgvhocba.DataSource = Bus.Getlisthocba();
-            cbxmahs.DataSource = Bus.Getlisthocba();
+            cbxmahs.DataSource = Bus.Getlisthocsinh();
             cbxmahs.ValueMember = "mahs";
             cbxtimkiem.DataSource = Bus.Getlisthocsinh();
             cbxtimkiem.ValueMember = "mahs";
             cbxmagv.DataSource = Bus.Getlistgiaovien();
             cbxmagv.ValueMember = "magv";
+        
         }
 
 
@@ -210,7 +211,7 @@ namespace quanlyhocsinhgiaovien
 
         }
 
-        private void cbxmahs_SelectedIndexChanged(object sender, EventArgs e)
+     /*private void cbxmahs_SelectedIndexChanged(object sender, EventArgs e)
         {
             DataRowView row = cbxmahs.SelectedItem as DataRowView;
             if (row != null)
@@ -228,6 +229,7 @@ namespace quanlyhocsinhgiaovien
 
             }
         }
+        */
     }
 }
 

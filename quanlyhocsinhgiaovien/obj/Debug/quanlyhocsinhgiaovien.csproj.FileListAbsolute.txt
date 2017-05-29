@@ -91,3 +91,28 @@ E:\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.c
 E:\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.KhenThuong.resources
 E:\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Kỷ_Luật.resources
 E:\quanlyhocsinhgiaovien\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Luong.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\bin\Debug\quanlyhocsinhgiaovien.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.banbomon.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Bangdiem.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.cacmonhoc.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.chitietdiem.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Formthongtin.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Hocba.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.KhenThuong.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Kỷ_Luật.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichdaythay.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lichgiangday.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.lophoc.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Luong.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.phanconggiangday.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.thongtinhocsinh.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.loginfrm.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmgiaovien.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.frmqlhsgv.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanliHSSV\quanlyhocsinhgiaovien\obj\Debug\quanlyhocsinhgiaovien.csproj.GenerateResource.Cache

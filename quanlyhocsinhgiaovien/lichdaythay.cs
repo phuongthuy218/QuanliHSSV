@@ -27,9 +27,11 @@ namespace quanlyhocsinhgiaovien
         private void lichdaythay_Load(object sender, EventArgs e)
         {
             dgvlichdaythay.DataSource = Bus.Getlistlichdaythay();
-           
+
             cbxgvd.DataSource = Bus.Getlistgiaovien();
             cbxgvd.ValueMember = "magv";
+            cbxlop.DataSource = Bus.Getlistlophoc();
+            cbxlop.ValueMember = "malh";
         }
 
         private void butthem_Click(object sender, EventArgs e)

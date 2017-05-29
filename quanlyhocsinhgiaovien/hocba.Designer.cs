@@ -427,7 +427,7 @@
             this.cbxmahs.Name = "cbxmahs";
             this.cbxmahs.Size = new System.Drawing.Size(129, 21);
             this.cbxmahs.TabIndex = 40;
-            this.cbxmahs.SelectedIndexChanged += new System.EventHandler(this.cbxmahs_SelectedIndexChanged);
+    //      this.cbxmahs.SelectedIndexChanged += new System.EventHandler(this.cbxmahs_SelectedIndexChanged);
             // 
             // txtma
             // 

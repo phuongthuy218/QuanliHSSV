@@ -23,7 +23,7 @@ namespace quanlyhocsinhgiaovien
 
         {
 
-            SqlConnection cn = new SqlConnection( @"Server=DESKTOP-8J03LKB;Database=QuanLyGiaoVienHocsinh;Trusted_Connection=true "); 
+            SqlConnection cn = new SqlConnection(@"Data Source=ADMINS\SQLEXPRESS;Initial Catalog=QuanLyHSGV;Integrated Security=True"); 
             SqlDataAdapter da = new SqlDataAdapter("select count(*) from admin where tendangnhap = '" + textnguoidung.Text + "' and  matkhau ='" + textmatkhau.Text + " '  ", cn);
             DataTable dt = new DataTable();
             da.Fill(dt);

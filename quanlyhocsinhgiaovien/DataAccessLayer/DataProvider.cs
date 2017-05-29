@@ -15,7 +15,7 @@ namespace quanlyhocsinhgiaovien.DataAccessLayer
         {
             try
             {
-                string sql = @"Server=DESKTOP-8J03LKB;Database=QuanLyGiaoVienHocsinh;Trusted_Connection=true ";
+                string sql = @"Data Source=ADMINS\SQLEXPRESS;Initial Catalog=QuanLyHSGV;Integrated Security=True";
                 conn = new SqlConnection(sql);
                 conn.Open();
                 return conn;

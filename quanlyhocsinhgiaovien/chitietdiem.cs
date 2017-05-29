@@ -27,12 +27,13 @@ namespace quanlyhocsinhgiaovien
             
             dgvchitietbangdiem.DataSource = Bus.Getlistchitietbangdiem(); 
             cbxmahs.DataSource = Bus.Getlisthocsinh();
-            cbxmahs.ValueMember = "mahs"; 
-            
+            cbxmahs.ValueMember = "mahs";  
             cbxmamh.DataSource = Bus.Getlistmonhoc();
             cbxmamh.ValueMember = "mamh";
-            cbxtimkiem.DataSource = Bus.Getlisthocsinh();
-            cbxtimkiem.ValueMember = "mahs";
+            cbxmabd.DataSource = Bus.Getlistbangdiem();
+            cbxmabd.ValueMember = "mabd";
+           cbxtimkiem.DataSource = Bus.Getlisthocsinh();
+          cbxtimkiem.ValueMember = "mahs";
             
         }
          

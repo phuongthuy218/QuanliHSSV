@@ -26,7 +26,7 @@ namespace quanlyhocsinhgiaovien.DataAccessLayer
                 new SqlParameter("@gt", gv.gioitinh),
                 new SqlParameter("@dt", gv.dantoc),
                 new SqlParameter("@tg",gv.tongiao),
-                new SqlParameter("@que ",gv.quequan ), 
+                new SqlParameter("@que",gv.quequan ), 
                 new SqlParameter("@td",gv.trinhdo), 
                 new SqlParameter("@ngay", gv.ngayvaolam ),
                 new SqlParameter("@nn",gv.ngoaingu),
@@ -34,7 +34,7 @@ namespace quanlyhocsinhgiaovien.DataAccessLayer
                 new SqlParameter("@tb", gv.tenban),
                
             };
-            return DataProvider.ExecuteNonQuery("themhsgiaovien ", para);
+            return DataProvider.ExecuteNonQuery("themhsgiaovien", para);
         }
         public static int UpdateProfile(giaovien gv)
         {
